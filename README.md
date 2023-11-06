@@ -14,7 +14,7 @@ Blue Team Level 1.
 
 ## Step 3
 
-Do the projects in the “projects you NEED to get hired” video.
+Do the projects in the [Beginner cyber security projects you NEED to get hired](https://www.youtube.com/watch?v=LFlsDm8w36A) video.
 
 As you go through Blue Team and as you do the projects, you’re adding these to your CV, both as projects and skills.
 
