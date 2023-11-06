@@ -18,6 +18,8 @@ Do the projects in the [Beginner cyber security projects you NEED to get hired](
 
 As you go through Blue Team and as you do the projects, you’re adding these to your CV, both as projects and skills.
 
+## Step 4
+
 By this point, you should start applying to any and all cybersecurity positions, even if you only meet 10% of requirements. Do not just go for your specialization.
 
 ## Step 4. Choose Specialization
